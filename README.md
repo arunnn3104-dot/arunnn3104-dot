@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Arun N
 
 PGDM student at **Thiagarajar School of Business**, Madurai (2025–2027). I work where marketing meets data and GenAI: market research, go-to-market strategy, LLM-powered automation in n8n, and Power BI dashboards.
